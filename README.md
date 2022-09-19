@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native, Android Studio**
 
-- 📫 How to reach me **pulakn.official@gmail.com**
+- 📫 Reach me with **pulakn.official@gmail.com**
 
 - ⚡ Fun fact **"I like to keep the workflow"**
 
