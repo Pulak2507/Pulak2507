@@ -1,6 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https"//pulaknath.io)
 <h1 align="center">Hi 👋, I'm Pulak Nath</h1>
 <h3 align="center">A passionate developer from Assam, India</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 - 🔭 I’m currently working on **Digitalization of Plant Taxonomy**
