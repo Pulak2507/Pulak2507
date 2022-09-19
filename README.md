@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Digitalization of Plant Taxonomy**
 
-- 🌱 I’m currently learning **react Native, Android Studio**
+- 🌱 I’m currently learning **React Native, Android Studio**
 
-- 📫 How to reach me **nathpulak48002507@gmail.com**
+- 📫 How to reach me **pulakn.official@gmail.com**
 
-- ⚡ Fun fact **I'll keep the workflow**
+- ⚡ Fun fact **"I like to keep the workflow"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
